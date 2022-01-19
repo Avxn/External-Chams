@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\imgay\Desktop\Chams\Chams\memory.h(71): warning C4172: returning address of local variable or temporary: value
+C:\Users\imgay\Desktop\Chams\Chams\memory.h(71): warning C4172: returning address of local variable or temporary: value
+  All 64 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chams.vcxproj -> C:\Users\imgay\Desktop\Chams\Release\Chams.exe
